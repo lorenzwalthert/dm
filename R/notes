@@ -1,0 +1,2 @@
+- when cache is deactivated, no problem occurs.
+- when cache is activated but cleared, the problem does not occur.
